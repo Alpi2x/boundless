@@ -1,0 +1,8 @@
+{
+  "name": "guild-balance-check",
+  "version": "1.0.0",
+  "main": "check.js",
+  "dependencies": {
+    "ethers": "^6.8.1"
+  }
+}
